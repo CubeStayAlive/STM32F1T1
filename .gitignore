@@ -55,4 +55,7 @@ dkms.conf
 !.gitignore
 *.lst
 *.log
-/Debug/
+/Debug/*
+!/Debug/*.hex
+!/Debug/*.elf
+
